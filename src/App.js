@@ -3,7 +3,7 @@ import Clock from 'react-live-clock';
 // import Switch from './switch'
 
 const api = {
-  key: "7d52c1e2cd7823463e5abcb379cfeaaf",
+  key: "YourKeyHere",
   base: "https://api.openweathermap.org/data/2.5/"
 }
 function App(){

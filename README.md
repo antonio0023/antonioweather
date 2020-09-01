@@ -66,3 +66,9 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+# Climonio
+
+Aplicación simple para consultar el clima por ciudades, creada usando ReactJS.
+
+[Para utilizar **Climonio** click aquí] (https://antonio0023.github.io/antonioweather/)
+
